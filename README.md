@@ -1,3 +1,89 @@
+# 🧑‍💻 Brian Migwi - Hackathon 1 Portfolio Submission 🚀
+
+Welcome to my submission for the **PLP Academy July 2025 Cohort Hackathon 1**.  
+This repository contains my **personal portfolio website** built using HTML and CSS. It showcases my background, interests, skills, and projects, and includes a contact form for collaboration.
+
+---
+
+## 🌐 Live Site
+
+You can view the live version of my portfolio here:  
+👉 [brianmigwi.github.io/my-portfolio-hackathon1](https://brianmigwi.github.io/my-portfolio-hackathon1)
+
+---
+
+## 📂 Project Structure
+
+| File/Folder      | Description                                |
+|------------------|--------------------------------------------|
+| `index.html`     | Main HTML file containing website content  |
+| `style.css`      | CSS file for styling the portfolio         |
+| `assets/`        | Folder containing downloadable CV          |
+| `README.md`      | This documentation file                    |
+
+---
+
+## 🧩 Portfolio Sections
+
+1. **About Me** – A short introduction to who I am and my goals.
+2. **Educational Background** – My academic journey and downloadable CV.
+3. **Programming Skills** – Technologies and languages I’m learning.
+4. **Projects** – Real-world initiatives I’m yet to build :
+  
+5. **Contact Form** – Lets visitors reach out easily.
+
+---
+
+## 🛠️ Built With
+
+- HTML5 (Semantic Structure, Accessibility)
+- CSS3 (Responsive Styling)
+- Git & GitHub (Version Control)
+- GitHub Pages (Deployment)
+
+---
+
+## 📥 Download My CV
+
+[Click to download](assets/BrianMigwi_CV.pdf)
+
+---
+
+## 📅 Hackathon Timeline
+
+- **Start Date**: July 30th, 2025  
+- **End Date**: August 3rd, 2025  
+- **Award Ceremony**: August 8th, 2025
+
+---
+
+## 🔖 Submission Checklist
+
+- [x] Portfolio built using HTML/CSS
+- [x] README updated and clear
+- [x] Project pushed to public GitHub repo
+- [x] Live site deployed via GitHub Pages
+- [x] Submission form completed ✅
+
+---
+
+## 📢 Acknowledgements
+
+Thanks to **PLP Academy** for the support and mentorship during this challenge.  
+This was a hands-on opportunity to strengthen my coding foundations and apply what I’ve learned in a real-world context.
+
+---
+
+## 📫 Contact Me
+
+Want to collaborate or ask a question?  
+Email: migwibrian7@gmail.com
+
+---
+
+### 🚀 Let’s Build More Together!
+
+
 # July 2025 Cohort Hackathon 1: Portfolio Challenge 🚀  
 
 Welcome to the **PLP Academy Portfolio Challenge!** 🎉  
@@ -81,6 +167,3 @@ Feel free to reach out! [Contact Form](link-to-your-contact-form)
 
 We’re excited to see your unique creations! ✨  
 Happy coding, and good luck! 🍀  
-
-# my-portfolio-hackathon1
-My first hackathon nice
